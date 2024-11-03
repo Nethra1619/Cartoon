@@ -1,25 +1,25 @@
-# Chatty Girl Website
+# Cartoon Girl Website
 
 This repository contains the source code for a simple website featuring a cartoon girl character that speaks different phrases.
 
 ## Live Demo
 
-Check out the live demo [here](https://Nethra1619.github.io/Cartoon/) 
+Check out the live demo [here](https://Nethra1619.github.io/Cartoon/).
 
 ## Files
 
 - `index.html`: The main HTML file that structures the webpage.
-- `girl.png`: The image file for the cartoon girl character.
+- `IMG-20241002-WA0033.jpg`: The image file for the cartoon girl character.
 
 ## How to Run
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/Nethra1619/cartoon.git
+    git clone https://github.com/Nethra1619/Cartoon.git
     ```
 2. **Navigate to the project directory:**
     ```bash
-    cd cartoon
+    cd Cartoon
     ```
 3. **Open `index.html` in your browser:**
     ```bash
@@ -28,4 +28,4 @@ Check out the live demo [here](https://Nethra1619.github.io/Cartoon/)
 
 ## Customization
 
-Feel free to customize the `index.html` file and `IMG-20241002-WA0033.jpg` image to fit your needs
+Feel free to customize the `index.html` file and `IMG-20241002-WA0033.jpg` image to fit your needs. You can also modify the phrases in the JavaScript code to personalize the character’s speech.
