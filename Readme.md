@@ -4,7 +4,7 @@ This repository contains the source code for a simple website featuring a cartoo
 
 ## Live Demo
 
-Check out the live demo [here](https://nethra1619.github.io/cartoon/).
+Check out the live demo [here](https://nethra1619.github.io/cartoon).
 
 ## Files
 
